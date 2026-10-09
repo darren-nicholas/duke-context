@@ -10,7 +10,7 @@ Last updated: 2026-10-06
 
 Darren Nicholas is co-founder of **MD Studios LLC** (with Manuel "Manny" Barojas), a two-person AI lab shipping domain-specific products. By day he's an operating partner at **DSquared Hospitality** in Seattle — currently in a 24-month strategic rethink about his role (see *DSquared Role Redesign*).
 
-Family: wife Lindsay, daughters Cora (9) and Aubrey (8). Dog Griffey (border collie). Lives in Snoqualmie, WA.
+Family: wife Lindsay, daughters Cora (10) and Aubrey (8). Dog Griffey (border collie). Lives in Snoqualmie, WA.
 
 Grounding mantra: *"Pressure is a privilege."* (Billie Jean King.)
 
@@ -89,11 +89,11 @@ Key relationships:
 A quick reference to who matters and what they mean to Darren's work:
 
 - **Lindsay** — wife
-- **Cora (9), Aubrey (8)** — daughters, co-creators on SquishPop
+- **Cora (10), Aubrey (8)** — daughters, co-creators on SquishPop
 - **Griffey** — border collie (favorite thing: the tennis ball… always the tennis ball)
 - **Manuel "Manny" Barojas** — MD Studios co-founder, CTO/CFO. Daily contact: elmonobarojas@gmail.com. Legal/Apple contact: mannyb@mdstudiosusa.com. Builds in GPT-5 Codex. Former Marine pilot. Builds solo experiments in the MD Studios org too (not all repos are joint work).
 - **David** — DSquared ownership, CaterCraft JV counterparty
-- **Reed** — David's son, DSquared
+- **Reed** — David's son, DSquared COO
 - **Abi Haggerty** — Tuxedos & Tennis Shoes GM, CaterCraft adoption champion, David's daughter
 - **Ragy Selim** — formerly DSquared, now at Sodexo (don't suggest him as a DSquared contact)
 - **Dan Cain** — family friend, prostate cancer diagnosis April 2026, Darren wants to help him use AI better
